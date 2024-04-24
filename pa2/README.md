@@ -65,7 +65,7 @@ The PA2 folder introduces schema updates to support many-to-many relationships, 
 
 ## How to Run the Scripts
 1. **Update Schema:** Run `schema_updates.sql` in your SQL client to apply the latest schema changes.
-2. **Execute SQL Queries:** Use `queries.sql` and `bonus.sql` to perform advanced data analysis.
+2. **Execute SQL Queries:** Use `queries.sql` to perform advanced data analysis.
 3. **Run Python Script:** Execute `bonus.py` to generate and insert random data into your database.
 4. **Execute the SQL Script:** Run the `bonus.sql` in your SQL client.
 2. **View Profiling Data:** After running the queries, review the profiling output to see the performance impact of indexing.
