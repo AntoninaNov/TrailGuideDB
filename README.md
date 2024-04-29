@@ -63,6 +63,18 @@ Illustrates how to create SQL views to simplify data access and enhance reportin
 - **Run SQL Scripts:** Open your SQL client, connect to your MySQL server, and execute the scripts provided in each directory to see them in action.
 - **Experiment and Modify:** Feel free to modify the scripts or use them as a basis for your own projects.
 
+## How to Deploy the Project
+To deploy the project:
+1. Clone the repository to your local machine.
+2. Navigate to each folder and run the SQL scripts in your preferred SQL client to set up the database schema and populate it with data.
+3. Refer to individual README.md files within each folder for detailed deployment instructions specific to each part of the project.
+
+## How to Run Python Scripts
+To run Python scripts included in the repository:
+1. Ensure you have Python installed on your system.
+2. Install necessary Python packages using pip, e.g., `pip install pymysql` for MySQL database connectivity.
+3. Execute the Python scripts directly from the command line. For example, run `python bonus.py` to see the script in action.
+
 ## Contributing
 Contributions to this project are welcome! Please fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
